@@ -1,0 +1,6 @@
+@MasrafTakipAPI_HostAddress = http://localhost:5117
+
+GET {{MasrafTakipAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
